@@ -1,0 +1,21 @@
+{
+  "name": "jingxin-home-page",
+  "version": "1.0.0",
+  "description": "Jingxin Home Page",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JingxinHx/personal-UI.git"
+  },
+  "keywords": [
+    "Jingxin",
+    "Homepage"
+  ],
+  "author": "Jingxin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JingxinHx/personal-UI/issues"
+  },
+  "homepage": "https://github.com/JingxinHx/personal-UI#readme"
+}
